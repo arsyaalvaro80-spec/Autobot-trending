@@ -1,0 +1,6 @@
+{
+  "name": "Aurex Quant — Auto Trading Bot Multi-Exchange & XAU/USD",
+  "description": "Platform auto trading bot multi-exchange untuk XAU/USD dan Kripto dengan analisis teknikal real-time, deteksi pola candlestick, manajemen risiko otomatis, backtesting, enkripsi API AES-256-GCM, serta Studio AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
